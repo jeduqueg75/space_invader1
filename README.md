@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jorge Duque 
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python, Django, Java, HTML, CSS, MYSQL, machine learning, data sciencie.
+- 🌱 I’m currently learning Python, Django, Java, HTML, CSS, MYSQL, machine learning, data science.
 - 📫 How to reach me jorgeduqueg75@gmail.com
   
 
